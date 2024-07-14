@@ -6,7 +6,7 @@
     "@astar-network/astar-api": "^0.1.12",
     "@polkadot/api": "^9.5.1",
     "@polkadot/api-contract": "^9.5.1",
-    "@polkadot/extension-dapp": "^0.44.6",
+    "@polkadot/extension-dapp": "^0.47.6",
     "@supercolony/typechain-compiler": "^0.5.1-beta.1",
     "@supercolony/typechain-polkadot": "^0.5.0",
     "@supercolony/typechain-types": "^0.0.16",
